@@ -45,3 +45,10 @@ main .overlay-text {
   font-weight: bold;
   text-shadow: 2px 2px 4px black;
 }
+
+footer {
+  text-align: center;
+  padding: 20px;
+  border-top: 1px solid #ccc;
+  margin-top: 40px;
+}

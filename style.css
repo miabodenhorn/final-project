@@ -118,7 +118,8 @@ main .overlay-text {
   width: 292px;
   height: 218px;
   object-fit: cover;
-  
+  border: 1px solid #ccc;
+  border-radius: 5px;
 }
 
 footer {

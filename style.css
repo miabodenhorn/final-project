@@ -103,6 +103,24 @@ main .overlay-text {
   text-shadow: 1px 1px 2px black;
 }
 
+.new-collection {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 20px;
+}
+
+.new-collection .item {
+  text-align: center;
+}
+
+.new-collection img {
+  width: 292px;
+  height: 218px;
+  object-fit: cover;
+  
+}
+
 footer {
   text-align: center;
   padding: 20px;
